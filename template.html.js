@@ -1,0 +1,1 @@
+module.exports = '<div class=\'multiple-choice\'>\n  <div class=\'multiple-choice-question\'></div>\n  <form class=\'multiple-choice-options\'>\n    <ul></ul>\n  </form>\n</div>';

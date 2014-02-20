@@ -1,11 +1,11 @@
-var domify = require('domify');
-var classes = require('classes');
-var innerText = require('text');
-var events = require('events');
-var Emitter = require('emitter');
-var prevent = require('prevent');
-var randomize = require('shuffle-array');
-var find = require('find');
+var domify = require('component-domify');
+var classes = require('component-classes');
+var innerText = require('matthewp-text');
+var events = require('component-events');
+var Emitter = require('component-emitter');
+var prevent = require('yields-prevent');
+var randomize = require('pazguille-shuffle-array');
+var find = require('component-find');
 
 var template = require('./template.html');
 
